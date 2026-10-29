@@ -1,0 +1,14 @@
+
+{
+  "lattice_sizes": [8, 16, 24, 32],
+  "coupling": 1.0,
+  "temperature_min": 2.05,
+  "temperature_max": 2.50,
+  "temperature_points": 19,
+  "equil_sweeps": 2000,
+  "sample_sweeps": 4000,
+  "independent_runs": 5,
+  "seed": 42,
+  "example_lattice_size": 32,
+  "example_temperature": 2.269
+}
